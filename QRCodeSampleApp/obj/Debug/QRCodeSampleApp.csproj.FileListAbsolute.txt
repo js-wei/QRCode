@@ -1,0 +1,10 @@
+F:\DoNet\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSampleApp.csprojResolveAssemblyReference.cache
+F:\DoNet\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.QrCodeSampleApp.resources
+F:\DoNet\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.Properties.Resources.resources
+F:\DoNet\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSampleApp.csproj.GenerateResource.Cache
+F:\DoNet\QRCode\QRCodeSampleApp\bin\Debug\QRCodeSample.exe
+F:\DoNet\QRCode\QRCodeSampleApp\bin\Debug\QRCodeSample.pdb
+F:\DoNet\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.exe
+F:\DoNet\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.pdb
+F:\DoNet\QRCode\QRCodeSampleApp\bin\Debug\ThoughtWorks.QRCode.dll
+F:\DoNet\QRCode\QRCodeSampleApp\bin\Debug\ThoughtWorks.QRCode.pdb
